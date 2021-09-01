@@ -1,4 +1,4 @@
-# Rangkuman Materi Pertemuan 1
+# Rangkuman Materi Pertemuan 01
 
 Pembahasan materi pada pertemuan 1 ini adalah pengenalan mahasiswa dengan Mobile Programming. Dibawah ini adalah rangkuman atau point dari pembahasan tersebut:
 
