@@ -1,0 +1,1 @@
+dipertemuan pertama ini kita membahas tentang pemrograman mobile yang berisikan, aplikasi apa saja yang digunakan, tools - tools apa saja yang digunakan, dan juga project apa saja yang akan dikerjakan.
