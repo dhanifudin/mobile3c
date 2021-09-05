@@ -1,0 +1,2 @@
+Pertemuan 1
+Yang dapat saya simpulkan dari pembahasan di pertemuan pertama ini adalah tentang pengetahuan umum mobile programming, aplikasi yang berkaitan dengan mata kuliah ini seperti Android Studio, Flutter dan lain sebagainya
