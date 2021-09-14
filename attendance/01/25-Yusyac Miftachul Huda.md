@@ -1,0 +1,1 @@
+Pada Pertemuan Pertama Ini Membahas Jenis Jenis Framework Dan Berbagai Macam Bahasa Pemograman Untuk Pemograman Mobile
